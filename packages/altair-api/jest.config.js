@@ -17,6 +17,7 @@ module.exports = {
     '!src/**/*.input.ts',
     '!src/**/*.module.ts',
     '!src/**/*.strategy.ts',
+    '!src/**/*.guard.ts',
   ],
   coverageDirectory: '../coverage',
   testEnvironment: 'node',
